@@ -1,4 +1,4 @@
-# Dynamic LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token
+# Dynamic LLaVA-Mini: Efficient Image and Video Large Multimodal Models with Dynamic Number Vision Token
 
 [![arXiv](https://img.shields.io/badge/arXiv-2501.03895-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2501.03895)
 [![model](https://img.shields.io/badge/%F0%9F%A4%97%20huggingface%20-llava--mini--llama--3.1--8b-orange.svg)](https://huggingface.co/ICTNLP/llava-mini-llama-3.1-8b)
