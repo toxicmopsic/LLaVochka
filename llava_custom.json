@@ -1,0 +1,4 @@
+ {
+     "mm_vision_select_feature": "cls_patch",
+     "cls_token_classifier_path": "/home/user27/models/patch_mlp.pt"
+   }
